@@ -4,9 +4,9 @@
 在windows测试没有问题，其他地方没试过
 
 # 使用方式
-![image](https://github.com/user-attachments/assets/26b635fd-10af-463f-96a7-1741dde1b32f)
+![image](README.assets/1.png)
 
 `node chmod.js -R D:\UE_Engine\UE_Source\UnrealEngine-5.2.1\Engine`
 
-![image](https://github.com/user-attachments/assets/432e38a4-eda8-4791-a575-4af7072bda5e)
-![image](https://github.com/user-attachments/assets/16a0cfca-153e-4971-a9c1-c6124727bc48)
+![image](README.assets/2.png)
+![image](README.assets/3.png)
